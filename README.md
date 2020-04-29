@@ -1,4 +1,4 @@
-# AWS as a code
+# AWS Artefacts
 > Artefatos para auxiliar na utilização da arquitetura da AWS.
 
 Aqui vamos ter acesso a todo artefato que poderá ser utilizado para configurar os serviços da AWS, como EC2, S3, RDS, DynamoDB, CloundFront, Route53 e etc.
@@ -9,8 +9,8 @@ Aqui vamos ter acesso a todo artefato que poderá ser utilizado para configurar 
 
 ## Histórico de lançamentos
 
-* 0.0.1
-    * Adiciona scripts base do boot do `EC2` (Obrigado @JonathanBaraldi) 
+* 0.0.0
+	* Inicia o repositório com os artefatos base (LICENSE e README) 
 
 ## Meta
 
