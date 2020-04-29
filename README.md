@@ -9,6 +9,10 @@ Aqui vamos ter acesso a todo artefato que poderá ser utilizado para configurar 
 
 ## Histórico de lançamentos
 
+* 0.1.0
+	* Adiciona a pasta de artefatos para o EC2
+    * Adiciona scripts base do boot do `EC2` (Obrigado @JonathanBaraldi)
+    
 * 0.0.0
 	* Inicia o repositório com os artefatos base (LICENSE e README) 
 
