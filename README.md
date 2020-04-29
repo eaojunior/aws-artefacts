@@ -5,7 +5,7 @@ Aqui vamos ter acesso a todo artefato que poderá ser utilizado para configurar 
 
 [Mais informações](http://wiki.agilize.com.br)
 
-![](../assets/agilize-logo.png)
+![](https://emoji.slack-edge.com/T02DZKXPX/agilize/1c4fd71a8c53cc1c.png)
 
 ## Histórico de lançamentos
 
